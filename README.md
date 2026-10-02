@@ -1,4 +1,4 @@
-# The Last Signal â€” Unity C# portfolio source
+# The Last Signal - Unity C# portfolio source
 
 Survival horror game project by Georgi Chorbov. The project README uses the working title **The Names We Leave Behind**.
 
